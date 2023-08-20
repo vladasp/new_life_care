@@ -1,6 +1,6 @@
 # New Life Care App
 
-![App Demo](https://github-production-user-asset-6210df.s3.amazonaws.com/12842822/261858439-8bd30823-4fc4-4e38-bc2c-36920bbd3901.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230820%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230820T143657Z&X-Amz-Expires=300&X-Amz-Signature=f7b95997f890f559ed47f2c5c169ce73d248f91b0ae45c34ee90792bb5b1ab31&X-Amz-SignedHeaders=host&actor_id=12842822&key_id=0&repo_id=622651184)
+![App Demo](./gif/new%20life%20care.gif)
 
 New Life Care is a Flutter-based mobile app designed to provide a seamless experience for users to navigate through different screens and make selections. The app utilizes the BLoC (Business Logic Component) library to manage state and screen navigation. The final screen of the app displays a summary of selections made on the previous two screens.
 
