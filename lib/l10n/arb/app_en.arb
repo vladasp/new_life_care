@@ -1,0 +1,27 @@
+{
+    "@@locale": "en",
+    "trackPeriod": "Track my period",
+    "trackPeriodSubtitle": "contraception and wellbeing",
+    "getPregnant": "Get pregnant",
+    "getPregnantSubtitle": "learn about reproductive health",
+    "logInDate": "Log in your date of birth",
+    "next": "Next",
+    "summary": "Selected data summary",
+    "birthYear": "Your birth year: {year}",
+    "@birthYear": {
+        "placeholders": {
+            "year": {
+                "type": "int"
+            }
+        }
+    },
+    "trackYourPeriod": "track period",
+    "careType": "You are going to {value}",
+    "@careType": {
+        "placeholders": {
+            "value": {
+                "type": "String"
+            }
+        }
+    }
+}
